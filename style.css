@@ -1,0 +1,41 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+h1 {
+  font-size: 40px; 
+}
+
+H2 {
+  font-size: 28px;
+}
+
+/* TODO 1: Set all paragraph elements to red */
+p {
+  color: red;
+}
+
+/* TODO 2: Set all elements with class "note" to 20px */
+.note {
+  font-size: 20px;
+}
+
+/* TODO 3: Set the element with this ID to green */
+#id-selector-demo {
+  color: green;
+}
+
+/* TODO 4: Select li elements with value="4" */
+li[value="4"] {
+  color: blue;
+}
+
+/* TODO 5: Center-align all elements */
+* {
+  text-align: center;
+}
+
+
+/* Write your CSS below, don't change the rules above. */
